@@ -1,0 +1,54 @@
+[33mcommit 1eba33145753f9b97b8585a115da30b3f35286bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: bf0bea6 ece3d9d
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Sat Jul 29 07:59:02 2023 +0200
+
+    Fixed merge conflict
+
+[33mcommit bf0bea68ca31f64b22cae33c76d2216fc7157e5a[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Sat Jul 29 07:56:03 2023 +0200
+
+    Changed food to sour
+
+[33mcommit ece3d9d368a1addb5069c77126e831637a9e92e0[m[33m ([m[1;32mpersonel_color[m[33m)[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Sat Jul 29 07:54:08 2023 +0200
+
+    Changed type of food
+
+[33mcommit dd22ccaddbcbbec36188385671a86ae26822595d[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Sat Jul 29 07:42:50 2023 +0200
+
+    added spok quote
+
+[33mcommit 5458bf72f0fe1efb7a37f34d402cebc66f00e237[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Sat Jul 29 07:38:18 2023 +0200
+
+    add quote
+
+[33mcommit cbd2604b63587217cac99b10a3786939b172f998[m[33m ([m[1;32mpersonal_branch[m[33m)[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Fri Jul 28 09:55:00 2023 +0200
+
+    First commit to personel qoutes
+
+[33mcommit 1f505d9c3432c276cf577250c13d238e79bad571[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Fri Jul 28 09:23:27 2023 +0200
+
+    Revert
+
+[33mcommit 6e8aa81d0cda2eb290eb3b05423c3b3ea4c1a220[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Fri Jul 28 09:02:14 2023 +0200
+
+    Second Quote
+
+[33mcommit 6153c796a226c140c31638f588aff8719b2bc7a9[m
+Author: Sean7771 <seanmeyerwink@gmail.com>
+Date:   Fri Jul 28 08:54:12 2023 +0200
+
+    Initial Commit
